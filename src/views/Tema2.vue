@@ -2,10 +2,39 @@
   .curso-main-container.pb-3
     BannerInterno
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-      .titulo-principal.color-acento-contenido
+      .titulo-principal.color-acento-contenido(data-aos="flip-up")
         .titulo-principal__numero
           span 2
-        h1 Titulo de primer nivel
+        h1 Factores de calidad en la valoración del producto
+
+
+      
+      Separador
+      #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 2.1 Factores de operación del producto #[b software]
+
+
+
+        
+      Separador
+      #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 2.2 Factores de revisión del producto #[b software]
+
+
+
+      Separador
+      #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 2.3 Factores de transición del producto #[b software]
+
+
+
+
+      Separador
+      #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 2.4 Relación entre factores de calidad y requisitos del cliente
+
+
+
 
 </template>
 
