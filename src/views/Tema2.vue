@@ -12,7 +12,7 @@
         .bloque-texto-g__texto.p-4
           p Los factores de calidad permiten valorar el producto #[i software] mediante criterios que ayudan a determinar si responde adecuadamente a las necesidades, condiciones de uso y expectativas definidas para el proyecto. Su aplicación favorece una revisión objetiva y permite sustentar decisiones sobre aceptación, ajuste o mejora del producto.
       #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 2.1 Factores de operación del producto #[b software]
+        h2 2.1 Factores de operación del producto #[i software]
       p.mb-5 Los factores de operación permiten valorar cómo responde el #[i software] durante su uso, considerando aspectos como funcionamiento, estabilidad, facilidad de uso, seguridad y tiempos de respuesta. Los principales son los siguientes:
       .bg___slider.mb-5
         .px-5
@@ -104,8 +104,8 @@
       p.mb-0 La revisión de los factores de operación permite establecer si el producto responde adecuadamente durante su uso. Su valoración contribuye a identificar condiciones que pueden afectar el cumplimiento de los requisitos y la aceptación del #[i software] por parte del cliente.
       Separador
       #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 2.2 Factores de revisión del producto #[b software]
-      p.mb-5 Los factores de revisión permiten valorar la capacidad del software para corregirse, ajustarse y mejorarse de forma controlada, facilitando su mantenimiento y reduciendo reprocesos. Los principales son los siguientes:
+        h2 2.2 Factores de revisión del producto #[i software]
+      p.mb-5 Los factores de revisión permiten valorar la capacidad del #[i software] para corregirse, ajustarse y mejorarse de forma controlada, facilitando su mantenimiento y reduciendo reprocesos. Los principales son los siguientes:
       .row.align-items-center.mb-3
         .col-xl-auto(data-aos="fade-right")
           figure.d-none.d-xl-block
@@ -183,7 +183,7 @@
             img(src='@/assets/curso/temas/t2/img13.png', alt='' style="width: 500px").m-auto
       Separador
       #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 2.3 Factores de transición del producto #[b software]
+        h2 2.3 Factores de transición del producto #[i software]
       p.mb-5 Los factores de transición permiten valorar la capacidad del #[i software] para adaptarse, integrarse y crecer frente a nuevos entornos, plataformas o necesidades del cliente. Los principales son los siguientes:
       .bg___slider.mb-5
         .px-5

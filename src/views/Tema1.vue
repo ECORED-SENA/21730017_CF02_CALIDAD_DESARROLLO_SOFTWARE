@@ -136,7 +136,7 @@
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
-                  h4 Política de Seguridad
+                  h4 Política de seguridad
                   p.mb-0 Define las condiciones necesarias para proteger la información y controlar el acceso. Puede exigir credenciales individuales, restricciones para información sensible y mecanismos que impidan acciones ejecutadas por usuarios no autorizados.
                 .col-xl-6
                   figure
@@ -488,7 +488,7 @@
             .bloque-texto-g__img(
               :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t1/img41.jpg')})` }")
             .bloque-texto-g__texto.p-4
-              p Los criterios permiten valorar el producto software de manera objetiva y organizada cuando se relacionan con los requisitos, las políticas del cliente y los factores de calidad. Su formulación clara, verificable y priorizada facilita identificar hallazgos y sustentar decisiones sobre la aceptación, corrección o ajuste del producto. 
+              p Los criterios permiten valorar el producto #[i software] de manera objetiva y organizada cuando se relacionan con los requisitos, las políticas del cliente y los factores de calidad. Su formulación clara, verificable y priorizada facilita identificar hallazgos y sustentar decisiones sobre la aceptación, corrección o ajuste del producto. 
       Separador
       #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 1.4 Evidencias de revisión de calidad del #[i software]

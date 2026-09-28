@@ -114,23 +114,23 @@
                   th.texto-left Resultado esperado
               tbody
                 tr.ajuste-color-tabla
-                  td.ajuste-border-tabla.texto-left.text-weight-bold Registrar clientes.
+                  td.ajuste-border-tabla.texto-left.text-weight-bold Registrar clientes
                   td.ajuste-border-tabla.texto-left Ingresar datos válidos y guardar el registro.
                   td.texto-left El cliente queda almacenado correctamente.
                 tr
-                  td.ajuste-border-tabla.texto-left.text-weight-bold Consultar productos.
+                  td.ajuste-border-tabla.texto-left.text-weight-bold Consultar productos
                   td.ajuste-border-tabla.texto-left Buscar un producto por nombre o código.
                   td.texto-left El sistema refleja el producto solicitado.
                 tr.ajuste-color-tabla
-                  td.ajuste-border-tabla.texto-left.text-weight-bold Generar reporte mensual.
+                  td.ajuste-border-tabla.texto-left.text-weight-bold Generar reporte mensual
                   td.ajuste-border-tabla.texto-left Seleccionar un rango de fechas y generar reporte.
                   td.texto-left El reporte presenta datos del periodo indicado.
                 tr
-                  td.ajuste-border-tabla.texto-left.text-weight-bold Controlar acceso por roles.
+                  td.ajuste-border-tabla.texto-left.text-weight-bold Controlar acceso por roles
                   td.ajuste-border-tabla.texto-left Ingresar con diferentes perfiles de usuario.
                   td.texto-left Cada perfil visualiza solo las opciones permitidas.
                 tr.ajuste-color-tabla
-                  td.ajuste-border-tabla.texto-left.text-weight-bold Evitar duplicidad.
+                  td.ajuste-border-tabla.texto-left.text-weight-bold Evitar duplicidad
                   td.ajuste-border-tabla.texto-left Registrar dos elementos con el mismo identificador.
                   td.texto-left El sistema impide el registro duplicado.
       .row.justify-content-center.align-items-center.mb-0
