@@ -325,8 +325,8 @@ export default {
     },
     {
       referencia:
-        'Harris, R. (s. f.). What is test case? Important, types and examples. The Knowledge Academy. ',
-      link: 'https://www.theknowledgeacademy.com/blog/what-is-test-case/',
+        'Bosque, U. E. (17 de 12 de 2025). Universidad el bosque. Obtenido de Diseño de casos de prueba de software. ',
+      link: 'https://www.unbosque.edu.co/educacion-continua/blog-educacion-continua/diseno-casos-prueba-software',
     },
     {
       referencia:
@@ -347,6 +347,11 @@ export default {
       referencia:
         'Rice, R. W. (2024, 26 de febrero). What is a test plan? The complete guide for writing a software test plan. PractiTest. ',
       link: 'https://www.practitest.com/resource-center/article/write-a-test-plan/',
+    },
+    {
+      referencia:
+        'Xicota, E. (2025, noviembre 23). Trazabilidad significado: definición y aplicaciones clave. Ester Xicota. ',
+      link: 'https://www.esterxicota.com/trazabilidad-significado-definicion-y-aplicaciones-clave/',
     },
   ],
   creditos: [

@@ -233,7 +233,7 @@
           p.mb-0 Para profundizar en la construcción de casos de prueba a partir de los requisitos del cliente, se dispone del siguiente video. Acceda e identifique cómo convertir un requisito en casos de prueba, considerando escenarios válidos e inválidos, datos de entrada, condiciones previas y resultados esperados:
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/jQJJqkV0bb4" title="Del requisito al caso de prueba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption.fit___figcaption-video Video. Del requisito al caso de prueba
       Separador
       #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
